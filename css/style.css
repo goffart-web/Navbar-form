@@ -1,0 +1,28 @@
+
+nav{
+    border: 2px solid ;
+    border-bottom-left-radius: 25px;
+    border-top-right-radius: 25px;
+    color: #0a9396;
+    margin-top: 20px;
+}
+li{
+    display: inline;
+    margin: 20px;
+    border: 2px solid ;
+    padding: 10px;
+    border-radius: 25px;
+    color: #0a9396;
+}
+a{
+    text-decoration: none;
+    font-size: 18px;
+    color: #0a9396;
+}
+li:hover{
+    background-color: #ffb3c6;
+
+}
+body{
+    background:linear-gradient( to left,#caf0f8,#ffb3c6);
+}
